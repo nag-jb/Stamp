@@ -21,7 +21,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="1tl-cE-2B6">
-                                <rect key="frame" x="104.5" y="743" width="205" height="70"/>
+                                <rect key="frame" x="104.5" y="753" width="205" height="70"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ezl-Ln-u4K">
                                         <rect key="frame" x="0.0" y="0.0" width="55" height="70"/>
@@ -111,7 +111,7 @@
                         <constraints>
                             <constraint firstItem="sLm-hC-Kjx" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" priority="700" constant="250" id="Kfp-8r-CYb"/>
                             <constraint firstItem="1tl-cE-2B6" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="cXy-8l-Jnj"/>
-                            <constraint firstItem="1tl-cE-2B6" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="330" id="tpx-2O-fW3"/>
+                            <constraint firstItem="1tl-cE-2B6" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="340" id="tpx-2O-fW3"/>
                             <constraint firstItem="sLm-hC-Kjx" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="vwi-Mj-m7c"/>
                         </constraints>
                     </view>
